@@ -10,3 +10,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jajabenit250&cache_seconds=86400&theme=dark" alt="Jajabenit250" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajabenit250&layout=compact&cache_seconds=86400&langs_count=8&hide=html,css&theme=dark" alt="Jajabenit250" /></p>
+
+<p>[![Benit's wakatime stats]<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jajabenit250&theme=dark" alt="Jajabenit250"/></p>
