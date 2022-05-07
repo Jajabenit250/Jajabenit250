@@ -9,4 +9,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jajabenit250&cache_seconds=86400&theme=dark" alt="Jajabenit250" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajabenit250&layout=compact&cache_seconds=86400&langs_count=8&hide=php,html&theme=dark" alt="Jajabenit250" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajabenit250&layout=compact&cache_seconds=86400&langs_count=8&theme=dark" alt="Jajabenit250" /></p>
