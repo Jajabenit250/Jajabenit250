@@ -7,5 +7,5 @@
 <br>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark">    <img  alt="jajabenit250's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jajabenit250?cardType=level&theme=dark" />  </a>
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?jajabenit250" frameborder="0"></iframe>
+<img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?jajabenit250" />
 
