@@ -10,7 +10,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![image](https://user-images.githubusercontent.com/51251401/167324970-c3ad33d5-3cf5-439f-8193-a9ee5f4a407f.png)
+<div width="600" height="200">
+![image](https://user-images.githubusercontent.com/51251401/167324970-c3ad33d5-3cf5-439f-8193-a9ee5f4a407f.png)</div>
 
 <!--<p><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?jajabenit250" frameborder="0"></iframe></p>-->
 
