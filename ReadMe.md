@@ -5,7 +5,7 @@
 <br>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jajabenit250&show_icons=true&locale=en&cache_seconds=86400&theme=dark" alt="Jajabenit250" /></p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jajabenit250?cardType=level&theme=dark&showIcons=false)](https://git.io/awesome-stats-card)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jajabenit250&cache_seconds=86400&theme=dark" alt="Jajabenit250" /></p>
 
