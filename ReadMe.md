@@ -8,6 +8,11 @@
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark">    <img  alt="jajabenit250's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jajabenit250?cardType=level&theme=dark" />  </a>
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   0 secs          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <div width="300" height="200">
