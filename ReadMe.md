@@ -10,7 +10,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jajabenit250&cache_seconds=86400&theme=dark" alt="Jajabenit250" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajabenit250&layout=compact&cache_seconds=86400&theme=dark" alt="Jajabenit250" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajabenit250&layout=compact&hide=python,dart&cache_seconds=86400&theme=dark" alt="Jajabenit250" /></p>
 <!--START_SECTION:waka-->
 
 ```text
