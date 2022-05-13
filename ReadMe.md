@@ -7,6 +7,10 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jajabenit250&show_icons=true&locale=en&cache_seconds=86400&theme=dark" alt="Jajabenit250" /></p>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jajabenit250&cache_seconds=86400&theme=dark" alt="Jajabenit250" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajabenit250&layout=compact&cache_seconds=86400&theme=dark" alt="Jajabenit250" /></p>
 <!--START_SECTION:waka-->
 
 ```text
@@ -18,10 +22,6 @@ Other        1 min           ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jajabenit250&cache_seconds=86400&theme=dark" alt="Jajabenit250" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajabenit250&layout=compact&cache_seconds=86400&theme=dark" alt="Jajabenit250" /></p>
 
 <!--<p><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?jajabenit250" frameborder="0"></iframe></p>-->
 
