@@ -18,8 +18,15 @@ Other        1 min           ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<div width="300" height="200">
-  <img  width="700" height="600" alt="jajabenit250's GitHub Stats" src="https://user-images.githubusercontent.com/51251401/167324970-c3ad33d5-3cf5-439f-8193-a9ee5f4a407f.png"/></div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jajabenit250&label=Profile%20views&color=0e75b6&style=flat" alt="Jajabenit250" /> </p>
+<br>
+<br>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jajabenit250&show_icons=true&locale=en&cache_seconds=86400&theme=dark" alt="Jajabenit250" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jajabenit250&cache_seconds=86400&theme=dark" alt="Jajabenit250" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajabenit250&layout=compact&cache_seconds=86400&theme=dark" alt="Jajabenit250" /></p>
 
 <!--<p><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?jajabenit250" frameborder="0"></iframe></p>-->
 
