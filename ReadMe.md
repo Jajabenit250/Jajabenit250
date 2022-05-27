@@ -53,8 +53,6 @@ I have experience of 5+ years in Javascript/Python/Ruby web development and desi
     </p>
 
 <br>
-<br>
-<br>
 <h3 align="left">Github Statistics:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jajabenit250&show_icons=true&locale=en&cache_seconds=86400&theme=dark" alt="Jajabenit250" /></p>
 
