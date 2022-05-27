@@ -37,7 +37,8 @@ I have experience of 5+ years in Javascript/Python/Ruby web development and desi
       <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
       <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/51251401/170643533-fe714896-db62-4e04-ab09-7be2743b21f0.png)
+" alt="nextjs" width="40" height="40"/> </a>
     <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> 
   <a href="https://gridsome.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/</a>
     <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
@@ -50,6 +51,9 @@ I have experience of 5+ years in Javascript/Python/Ruby web development and desi
     <a href="https://www.djangoproject.com/" target="_blank"> <img height="40" src="https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Django-1.png?fit=602%2C338&ssl=1" ></a>
     <a href="https://www.mysql.com/" target="_blank"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a>
     <a href="https://rubyonrails.org/" target="_blank"> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png"></a>
+    <a href="https://firebase.google.com/" target="_blank"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a>
+    <a href="https://graphql.org/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></a>
+    <a href="https://redis.io/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png"></a>
     </p>
 
 <br>
