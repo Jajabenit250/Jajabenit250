@@ -1,6 +1,9 @@
 
 <br>
 
+Experienced Software Engineer who understands more than one stack in many different areas front end and back end and Mobile As Well. 
+I have experience of 5+ years in Javascript/Python/Ruby web development and design along with managing multiple projects on project management tools like Trello, Jira, Teamwork. I possess great design skills and a creative eye for the website to bring out the best in it!
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jajabenit250&label=Profile%20views&color=0e75b6&style=flat" alt="Jajabenit250" /> </p>
 <br>
 <br>
