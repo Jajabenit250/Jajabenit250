@@ -52,13 +52,11 @@ I have experience of 5+ years in Javascript/Python/Ruby web development and desi
     <a href="https://rubyonrails.org/" target="_blank"> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png"></a>
     <a href="https://firebase.google.com/" target="_blank"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a>
     <a href="https://graphql.org/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></a>
-    <a href="https://redis.io/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png"></a>
-    
-    <a href="https://symfony.com/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/51251401/170644649-863461f8-98a0-48e9-8a74-01cbc43caeda.png"></a>
-    
+    <a href="https://redis.io/" target="_blank"> <img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png"></a>
+    <a href="https://symfony.com/" target="_blank"> <img height="40" src="https://user-images.githubusercontent.com/51251401/170644649-863461f8-98a0-48e9-8a74-01cbc43caeda.png"></a>
     <a href="https://laravel.com/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/51251401/170644884-be7794f6-b1e3-4767-b8af-aee8fb9dc528.png"></a>
-    
     <a href="https://www.php.net/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/51251401/170644455-f007f139-693b-42dc-96c2-ce1fc4f347cf.png"></a>
+    
     </p>
 
 <br>
