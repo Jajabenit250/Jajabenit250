@@ -69,11 +69,9 @@ I have experience of 5+ years in Javascript/Python/Ruby web development and desi
 <!--START_SECTION:waka-->
 
 ```text
-JSON         34 mins         ██████░░░░░░░░░░░░░░░░░░░   24.64 %
-HTML         28 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
-Markdown     19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-TypeScript   17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
-Other        15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+HTML         28 mins         ████████▓░░░░░░░░░░░░░░░░   34.95 %
+Markdown     19 mins         ██████░░░░░░░░░░░░░░░░░░░   23.83 %
+Other        15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
 ```
 
 <!--END_SECTION:waka-->
