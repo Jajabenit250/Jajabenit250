@@ -69,12 +69,12 @@ I have experience of 5+ years in Javascript/Python/Ruby web development and desi
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 55 mins    █████████████░░░░░░░░░░░░   51.47 %
-Dart         1 hr 16 mins    ████████▓░░░░░░░░░░░░░░░░   34.15 %
-Bash         20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-YAML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Dart         1 hr 16 mins    ███████████████████▒░░░░░   77.56 %
+JavaScript   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+Markdown     5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+YAML         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Bash         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
