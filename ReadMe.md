@@ -8,12 +8,12 @@
 <p align="left"> <a href="https://twitter.com/jajabenit" target="blank"><img src="https://img.shields.io/twitter/follow/jajabenit?logo=twitter&style=for-the-badge" alt="jajabenit" /></a> </p>
 <a href="https://wa.me/+250782979784"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 
-<p> Experienced Software Engineer who understands more than one stack in many different areas front end and back end and Mobile As Well.
+<p> Experienced Software Engineer who understands more than one stack in many different areas machine learning, front end and back end, and Mobile.
   </p> <p>
-I have experience of 5+ years in Javascript/Python/Ruby web development and design along with managing multiple projects on project management tools like Trello, Jira, Teamwork. I possess great design skills and a creative eye for the website to bring out the best in it!
+I have experience of 5+ years in Javascript/Python/Ruby web development and design along with managing multiple projects. I possess great design skills and a creative eye for the website to bring out the best in it!
 </p>
 
-- 💬 Ask me about **javascript, typescript, ruby, python, django, react and more tech related stuff**
+- 💬 Ask me about **javascript, typescript, ruby, python, Django, react, and more tech-related stuff**
 
 - 📫 Reach me at **jajabenit@gmail.com**
 
